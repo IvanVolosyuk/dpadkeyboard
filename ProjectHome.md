@@ -1,0 +1,1 @@
+ASUS Transformer has arrow keys, but no DPAD Center key, which is used by some games. The android application emulates DPAD Center key with Space key.
